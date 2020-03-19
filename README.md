@@ -1,2 +1,2 @@
 # flutter_apps
-Practice Flutter framework
+iamrich: First Flutter app. Basic MaterialApp with a Scaffold page.
