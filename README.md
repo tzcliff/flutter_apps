@@ -13,3 +13,5 @@ xylophone:
 quizzler: A mobile quiz app.
 
 destini: A simple adventure game.
+
+BMI-calculator: A BMI calculator
