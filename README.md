@@ -17,3 +17,5 @@ destini: A simple adventure game.
 BMI-calculator: A BMI calculator
 
 Clima: a weather app to check weather for current location and for specific cities.
+
+Bitcoin-ticker: bitcoin price checker
