@@ -22,4 +22,4 @@ Bitcoin-ticker: bitcoin price checker
 
 Flash-chat: an online chat app
 
-todoey: an To-Do list app.
+todoey: a To-Do list app.
